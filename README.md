@@ -37,8 +37,7 @@ All packaged in a simple tool with beginner-friendly configuration and advanced 
 ## 📺 Facebook Profile
 
 This tool is developed and maintained by **Shahariar Zaman** :
-
-> 🔥 [Firewall Breaker](https://www.facebook.com/i.am.shahariarzaman)
+[![FACEBOOK](https://img.shields.io/badge/Contact%20On-Facebook-blue?style=for-the-badge\&logo=facebook)]([https://www.facebook.com/share/14UX3r7kVz5/](https://www.facebook.com/i.am.shahariarzaman))
 
 On this profile, you'll find beginner-friendly tutorials, practical tips & tricks, and deep explanations of tools like this one — all tailored for Indian learners and mobile users.
 
